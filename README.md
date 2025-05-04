@@ -1,8 +1,8 @@
 # 🙇 Nevlek XR1
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Kelven Antonio, tenho 19 anos e sou natural de Maputo.Sou estudante técnico em informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube principal "[Nevlek XR1](https://youtube.com/@nevlekxr1)",  Secundário "[Nevlek ofc](https://youtube.com/@nevlekofc)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Kelven antonio](https://www.instagram.com/kelvenantonioxr1)".
+Me chamo Kelven Antonio, tenho 19 anos e sou natural de Maputo.Sou estudante técnico em informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube no meu canal principal "[Nevlek XR1](https://youtube.com/@nevlekxr1)",  Secundário "[Nevlek ofc](https://youtube.com/@nevlekofc)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Kelven antonio](https://www.instagram.com/kelvenantonioxr1)".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
