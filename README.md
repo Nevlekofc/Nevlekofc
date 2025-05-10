@@ -16,7 +16,7 @@ Me chamo Kelven Antonio, tenho 19 anos e sou natural de Maputo.Sou estudante té
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/CNHYl1sKYtqJwHOc?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
         <a href="https://www.youtube.com/@nevlekofc">
